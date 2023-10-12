@@ -1,0 +1,7 @@
+1. mkdir file name.txt
+2. ls.a
+3.git.init
+4.cat.file name.txt
+5.touch file name.txt
+6.git is a software and github is a service or website
+   in git we can use our desktop but github is popular for open source to create a repo.
