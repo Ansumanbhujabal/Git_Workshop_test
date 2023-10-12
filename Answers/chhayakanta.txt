@@ -1,0 +1,9 @@
+1.mkdir
+2.ls -a
+3.git init
+4.touch filename.txt
+5.cat
+6.git is version control sytem
+which allows developers to track changes
+but in git hub is a web based hosting serivies for git respositories.
+in git hub branches are there so that its not directly affect the main file.
