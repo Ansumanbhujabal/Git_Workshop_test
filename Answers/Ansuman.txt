@@ -1,1 +1,19 @@
 All the very best
+
+Name: Rajat Kumar Dalai
+User Name: RAJAT170604
+CSE(B)
+
+
+
+1. mkdir is the command for the new dierctory.
+
+2. ls -a is the command to see hidden files present in a directory.
+
+3. git init is the command to initialise it for the first time.
+
+4. touch <file_name> is the command for creating a new file with. git bash terminal.
+
+5. cd <file_name> is the command for opening the file in git bash.
+
+6. The difference of "git" and "git hub" is that git is known as thhe git bash that is used just like a command prompt, but the "git hub " is the  desktop application used for better version control and other works.
