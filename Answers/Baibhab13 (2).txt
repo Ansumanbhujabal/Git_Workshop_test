@@ -1,0 +1,5 @@
+1 mkdir: is the command to make a new directory.
+2 ls: to see hidden file present in a directory
+3 git init: command for initializie git in a directory for the first time
+4 touch filename.extension: creating a new file with git bash terminal
+5 echo filename: command for openning the file in git bash.
