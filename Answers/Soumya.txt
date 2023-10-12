@@ -6,4 +6,4 @@ git init
 
 touch filename.extenision
 
-echo filename
+cat filename
