@@ -1,0 +1,8 @@
+1. The command for making new diectrory is - mkdir command.
+2. command to see hidden files present in adirectory - ls-a.
+3. git init
+4. cat
+5. cd
+6.basdically, git is a system that controls version and it helps you to track changes in their codes and keeps tracks of your source code history.
+  whereas github is a cloud-based  hosting service that helps managing the git repository.
+also, git can be used without Github but Github can't be used without Git.
