@@ -1,1 +1,23 @@
-All the very best
+1.mkdir command
+
+
+2.ls
+
+
+
+3.create a directory
+type git init
+write some code
+type git to add files
+git commit
+
+
+
+4.touch<file_name>.txt
+
+
+
+5.cd <file _name>
+
+6.git is aversion control system that allows devlopers to track changes in their code.
+github is aweb based platform that incorporates git's version control.
