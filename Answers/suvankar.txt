@@ -1,0 +1,11 @@
+1.mkdir  filename
+2.ls -a
+3.git init
+4.touch name.txt,touch name.html,touch name.css ......etc
+5.cd filename/
+6.Stop Responding
+Git is a distributed version control system that helps track changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows 1.
+
+On the other hand, GitHub is a web-based Git repository hosting service that offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features 1. It is a platform that allows developers to store their Git repositories online and collaborate with other developers on the same project. GitHub provides a graphical user interface (GUI) to manage Git repositories and has built-in user management features 1.
+
+In summary, Git is a version control system to manage source code history, while GitHub is a hosting service for Git repositories. Git is installed locally on the system, while GitHub is hosted on the web 1.
