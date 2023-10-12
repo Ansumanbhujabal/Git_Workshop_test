@@ -1,1 +1,17 @@
 All the very best
+
+Name-Radhakant Panda
+Section -B
+
+1 ans) mkdir is to create a new directory
+
+2ans) ls -a is the command
+
+3ans)git init is the command which is used to initialise it for the first time  you can open the file by clicking shift+right_click than go to open with git bash and type git init to initialise.
+
+4ans)In order to create a new file use command touch <file_name> in the folder.
+
+5ans) We can open a file in gitbash  by the command cd <file_name>
+
+6ans)The difference between git and github is git is the version control system more precisely a distributed version control system .
+Version control system keeps the track of the versions of the app or software if a new function/propety is a added to the existing code and some problem is arises than we can switch to the previous version.But github is the platform which uses the technology of git underneath it with some additional features such as collaboration, open source contribution and many more.
