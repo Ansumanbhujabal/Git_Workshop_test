@@ -5,3 +5,8 @@ Baibhab sahu answers
 3 git init: command for initializie git in a directory for the first time
 4 touch filename.extension: creating a new file with git bash terminal
 5 cat filename: command for openning the file in git bash.
+
+6 How  "git" and "Git hub" are different?
+	GIT is like a command prompt for the local repositories.
+GITHUB is the web based hosting serivices for git repositories.
+	
