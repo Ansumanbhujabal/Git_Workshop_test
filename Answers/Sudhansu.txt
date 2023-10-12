@@ -1,0 +1,19 @@
+1.   What is the command for making new directory ?
+	Answer: - mk dir
+
+2.   Command to see hidden files present in a directory ?
+	Answer: - ls 
+
+3.   Command to initialize git in a directory for the first time ?
+	Answer: - cd file path in the directory.
+
+4.   Command for creating a new file with git bash terminal?
+	Answer: - touch command
+
+5.   Command for opening the file in git bash ?
+	Answer: - vim file_name
+
+The below question should be answered within 30 words and your explaination.
+
+6. How  "git" and "Git hub" are different (explain as if you are explaining to your friend)
+	Answer: - Git is a version control system that allows developers to track changes in their code,But GitHub is a web-based hosting service for git repositories.
