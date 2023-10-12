@@ -1,9 +1,11 @@
-1.mkdir
+1.mkdir 
 2.ls -a
 3.git init
-4.touch filename.txt
+4.touch 
 5.cat
 6.git is version control sytem
 which allows developers to track changes
 but in git hub is a web based hosting serivies for git respositories.
 in git hub branches are there so that its not directly affect the main file.
+we can use git without github but we cannot use github without git.
+overally 70% developers use github. 
