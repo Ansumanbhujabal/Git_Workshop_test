@@ -1,0 +1,10 @@
+All the very best
+Subham swain
+q1- mkdir
+q2- ls -a
+q3- git init
+q4- mkdir file_name
+q5- cd file_name/
+
+q6- git_hub(a website also a desktop app) is the place where collabartion and storage of codes occurs
+ while git is a program that we use.
