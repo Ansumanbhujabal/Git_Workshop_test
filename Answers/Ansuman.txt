@@ -1,1 +1,14 @@
-All the very best
+Name - Rameswar Panda
+section - b
+
+1.mkdir command is used to create a new directory
+
+2.ls --a command is used for see hidden files present in a directory
+
+3. Git init command is used to initiallize git in a directory for first time.
+
+4. for creating a new file touch <file_name> command is used in the folder
+
+5. cd<file_name> command is used to open a file.
+
+6. Git is a software tool while github is a service. git provides a desktop interface called GUI github provides a desktop interface called github desktop.it does not provide user management future , while github provides built-in user management future. Git is a type of terminal and github  a web based hosting provider for git pages and codes, files. Github can be installed in a local desktop while github is a web based service it cant be installed.
