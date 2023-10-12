@@ -1,0 +1,7 @@
+1: mkdir
+2: ls-a
+3: git init
+4: git add --
+5: cat <name of the file>
+6: Git is a version control system that grnerally helps in tracking the changes in a code ,but Github is a web based hosting service for git repositories.
+   we can use git without Github but we can not use Github without git.
