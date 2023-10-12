@@ -1,8 +1,13 @@
-mkdir
-ls -a
-git init
-touch filename.txt
-cat
+1.mkdir directory_name
+2.ls -a
+3.git init
+4.touch filename.extension
+5.cat filename.extension
 
-git is a version control system and it helps to update,insert and delete files in repository
-github is a local environmet where remote repositories can be forked, cloned and merged after each user makes their commmits separately in their local repository. it is a hub for developers working under same project.
+6.git is a version control system.
+It helps to update,insert and delete files in repos and switch between versions through a command line interface.
+
+On the other hand, Github is a development environment where remote repositories are modified locally.
+By forking cloning it into local system, necessary local changes called commits can be made in the files and directories through a UI. 
+Commits follow a push and pull system, where they're pushed from local repos and the owner of the repo up in the hierarchy can view, merge, reject or comment on the commits. 
+Basically it is a hub for interaction between developers working under same project. all developers in all branches can view the work of others and collaborate with them.
