@@ -1,0 +1,7 @@
+1. mkdir
+2.ls
+3.git init
+4. touch filename.extension
+5.
+6."git" acts like a command platform whereas "github" on the other hand acts like a repository storing and editing platform. 
+in git we can directly place our commands but in github we push and pull our edited repositories,which are some documents created as a template by the admin. 
