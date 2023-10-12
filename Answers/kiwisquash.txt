@@ -1,0 +1,8 @@
+mkdir
+ls -a
+git init
+touch filename.txt
+cat
+
+git is a version control system and it helps to update,insert and delete files in repository
+github is a local environmet where remote repositories can be forked, cloned and merged after each user makes their commmits separately in their local repository. it is a hub for developers working under same project.
