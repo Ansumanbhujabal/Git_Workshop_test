@@ -1,0 +1,7 @@
+1. mkdir 
+2. ls
+3. git init 
+4. cat
+5. cd
+6. git is a version control  system where only developers can code or make change
+but git hub is a place where others can come and collabrate with the main developer by using the repository link and can work together and make change
