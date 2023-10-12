@@ -1,0 +1,7 @@
+1. mkdir
+2. ls-a
+3. git init
+4. git add --
+5. cat<name of the file>
+6. Git is a version control system that generally helps in tracking the changes in a code, but Github is a software  that helps in storing the location for uploading the github repositories. We can use git without github, but we can not use github without git.
+Git is widely used because it is an open source and enables with a lot of features.
