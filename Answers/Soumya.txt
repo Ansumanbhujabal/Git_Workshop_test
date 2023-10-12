@@ -7,3 +7,5 @@ git init
 touch filename.extenision
 
 cat filename
+
+Github is a collaborator platform for the developers which helps them in making progress in group and undo their error.
