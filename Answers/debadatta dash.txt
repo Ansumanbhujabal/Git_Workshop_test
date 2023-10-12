@@ -1,0 +1,5 @@
+1 mkdir used to make new directory
+2 ls use to  see hidden files
+3 git init command uses for initialise git in directory 1st time
+4 touch filename.extension creating new file with git bash terminal
+5 cat filename command uses for open gitbash
