@@ -8,6 +8,6 @@
 It helps to update,insert and delete files in repos and switch between versions through a command line interface.
 
 On the other hand, Github is a development environment where remote repositories are modified locally.
-By forking cloning it into local system, necessary local changes called commits can be made in the files and directories through a UI. 
+By forking cloning it into local system, necessary local changes called commits can be made in the files and directories through a friendly UI. 
 Commits follow a push and pull system, where they're pushed from local repos and the owner of the repo up in the hierarchy can view, merge, reject or comment on the commits. 
 Basically it is a hub for interaction between developers working under same project. all developers in all branches can view the work of others and collaborate with them.
