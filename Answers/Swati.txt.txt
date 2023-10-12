@@ -1,0 +1,8 @@
+1 . mkdir
+2. ls-a
+3. git init
+4 . git add --
+5. Git is a version control system that genrally helps in tracking the change in code  
+ cat <file-name
+6. Git is a version control system taht allows developers to track changes in thier code 
+ And Git hub is a web-based hosting service for git repositories. 
