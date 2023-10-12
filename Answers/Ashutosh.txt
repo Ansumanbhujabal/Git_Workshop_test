@@ -1,0 +1,20 @@
+1.   What is the command for making new directory ?
+ans: mkdir
+
+2.   Command to see hidden files present in a directory ?
+ans:  ls
+
+3.   Command to initialize git in a directory for the first time ?
+ans: cd file path in the directory
+
+4.   Command for creating a new file with git bash terminal?
+ans: touch file_name
+
+5.   Command for opening the file in git bash ?
+ans: cd file_name
+
+The below question should be answered within 30 words and your explaination.
+
+6. How  "git" and "Git hub" are different (explain as if you are explaining to your friend)
+ans: git is a open source and it has two types of platform availabe like a free for everyone& and another is paid. it is widely used in collabaration for companiies and empoloies from diffrent countries. so it is very useful.
+ 
