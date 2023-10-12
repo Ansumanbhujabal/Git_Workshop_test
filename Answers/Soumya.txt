@@ -1,0 +1,9 @@
+mkdir directory name
+
+ls -a
+
+git init 
+
+touch filename.extenision
+
+echo filename
