@@ -1,0 +1,7 @@
+1. mkdir
+2. ls -a
+3. git init
+4. touch<filename>
+5. start <file_name>
+
+6. git is a type of the language of vesion control where as git hub is a online platform to represent git reposotary & provides GUI software for using git.  
